@@ -1,12 +1,12 @@
 const obj = {
     method1 (){
-        return this
+        return this;
     },
     method2 (){
-        return this
+        return this;
     },
     method3 (){
-        return 'метод3'
+        return 'метод3';
     }
 };
 

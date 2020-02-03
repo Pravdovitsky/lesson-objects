@@ -1,5 +1,5 @@
 const getObj = function () {
-    return this
+    return this;
 };
 
 const city1 = {
